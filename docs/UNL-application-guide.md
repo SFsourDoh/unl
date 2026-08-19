@@ -1,5 +1,3 @@
-*Draft Proposal*
-
 **Guide to Applying to be on the XRP Ledger (XRPL) Foundation's Unique Node List (UNL)**
 
 This document outlines the requirements, process, and evaluation criteria for individuals and organizations seeking to be included on the XRPL Foundation's Unique Node List (UNL).
@@ -94,7 +92,9 @@ Decentralization is a core goal. The Foundation actively seeks a distributed and
 | **Stewardship**        | Prioritizing the network's long-term integrity, decentralization, and shared success through thoughtful governance and reliable node operation. |
 
 **4. Monitoring Performance and The Final Decision**
+
 This section describes how validator performance is monitored and how final UNL decisions are made.
+
 **Monitoring Validator Performance**
 
 You can monitor your validator's performance statistics, including agreement rate and other metrics, using the official network explorer:
